@@ -1,0 +1,16 @@
+statistic,source,R_Rsun,t_mag_days,detector,floor_A_at_R0.5_mag,max_recovery
+v3-physical,RGBiso,137.5,8.16657,global_max,none,0.1350
+v3-physical,RGBiso,137.5,8.16657,oracle_single_freq,0.075572,0.9950
+v3-physical,RGBiso,137.5,8.16657,blind_harmonic_sum,none,0.1800
+v3-physical,AGB170,170.1963493780872,10.1085,global_max,none,0.3450
+v3-physical,AGB170,170.1963493780872,10.1085,oracle_single_freq,0.057893,1.0000
+v3-physical,AGB170,170.1963493780872,10.1085,blind_harmonic_sum,none,0.3550
+v3-physical,AGB215,214.97406799964722,12.768,global_max,0.203117,0.7850
+v3-physical,AGB215,214.97406799964722,12.768,oracle_single_freq,0.042249,1.0000
+v3-physical,AGB215,214.97406799964722,12.768,blind_harmonic_sum,0.307602,0.6500
+v3-physical,AGB260,260.51159521815595,15.4726,global_max,0.117309,0.9300
+v3-physical,AGB260,260.51159521815595,15.4726,oracle_single_freq,0.036648,1.0000
+v3-physical,AGB260,260.51159521815595,15.4726,blind_harmonic_sum,0.269032,0.7400
+v3-physical,AGBiso,300.744,17.8622,global_max,0.096628,1.0000
+v3-physical,AGBiso,300.744,17.8622,oracle_single_freq,0.031540,1.0000
+v3-physical,AGBiso,300.744,17.8622,blind_harmonic_sum,0.218584,0.8550

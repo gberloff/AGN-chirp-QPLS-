@@ -1,0 +1,4 @@
+statistic,detector,floor_A_at_R0.5_mag
+v2-physical,global_max,none
+v2-physical,oracle_single_freq,none
+v2-physical,blind_harmonic_sum,none

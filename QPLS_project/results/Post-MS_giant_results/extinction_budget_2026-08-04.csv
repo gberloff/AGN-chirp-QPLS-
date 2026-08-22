@@ -1,0 +1,122 @@
+block,key1,key2,key3,value,note
+B5_a50,RGBiso,global_max,dm0_mag,1.68967,B1; scenario_cell chain
+B5_a50,RGBiso,global_max,floor_mag,none,qpls_radius_scan_floors.csv
+B5_a50,RGBiso,global_max,A_50_exact_mag,none,
+B5_a50,RGBiso,global_max,A_50_interp_mag,none,qpls_statistic_v3.csv
+B5_a50,RGBiso,global_max,delta_mag,n/a,|exact - interpolated|
+B5_a50,RGBiso,blind_harmonic_sum,dm0_mag,1.68967,B1; scenario_cell chain
+B5_a50,RGBiso,blind_harmonic_sum,floor_mag,none,qpls_radius_scan_floors.csv
+B5_a50,RGBiso,blind_harmonic_sum,A_50_exact_mag,none,
+B5_a50,RGBiso,blind_harmonic_sum,A_50_interp_mag,none,qpls_statistic_v3.csv
+B5_a50,RGBiso,blind_harmonic_sum,delta_mag,n/a,|exact - interpolated|
+B5_a50,AGB170,global_max,dm0_mag,1.74534,B1; scenario_cell chain
+B5_a50,AGB170,global_max,floor_mag,none,qpls_radius_scan_floors.csv
+B5_a50,AGB170,global_max,A_50_exact_mag,none,
+B5_a50,AGB170,global_max,A_50_interp_mag,none,qpls_radius_scan.csv
+B5_a50,AGB170,global_max,delta_mag,n/a,|exact - interpolated|
+B5_a50,AGB170,blind_harmonic_sum,dm0_mag,1.74534,B1; scenario_cell chain
+B5_a50,AGB170,blind_harmonic_sum,floor_mag,none,qpls_radius_scan_floors.csv
+B5_a50,AGB170,blind_harmonic_sum,A_50_exact_mag,none,
+B5_a50,AGB170,blind_harmonic_sum,A_50_interp_mag,none,qpls_radius_scan.csv
+B5_a50,AGB170,blind_harmonic_sum,delta_mag,n/a,|exact - interpolated|
+B5_a50,AGB215,global_max,dm0_mag,1.89124,B1; scenario_cell chain
+B5_a50,AGB215,global_max,floor_mag,0.203117,qpls_radius_scan_floors.csv
+B5_a50,AGB215,global_max,A_50_exact_mag,3.39893,"outside elliptical range, margin x16.9947"
+B5_a50,AGB215,global_max,A_50_interp_mag,3.39789,qpls_radius_scan.csv
+B5_a50,AGB215,global_max,delta_mag,0.00104157,|exact - interpolated|
+B5_a50,AGB215,blind_harmonic_sum,dm0_mag,1.89124,B1; scenario_cell chain
+B5_a50,AGB215,blind_harmonic_sum,floor_mag,0.307602,qpls_radius_scan_floors.csv
+B5_a50,AGB215,blind_harmonic_sum,A_50_exact_mag,2.89404,"outside elliptical range, margin x14.4702"
+B5_a50,AGB215,blind_harmonic_sum,A_50_interp_mag,2.89404,qpls_radius_scan.csv
+B5_a50,AGB215,blind_harmonic_sum,delta_mag,0,|exact - interpolated|
+B5_a50,AGB260,global_max,dm0_mag,2.00218,B1; scenario_cell chain
+B5_a50,AGB260,global_max,floor_mag,0.117309,qpls_radius_scan_floors.csv
+B5_a50,AGB260,global_max,A_50_exact_mag,4.17204,"outside elliptical range, margin x20.8602"
+B5_a50,AGB260,global_max,A_50_interp_mag,4.17146,qpls_radius_scan.csv
+B5_a50,AGB260,global_max,delta_mag,0.000578552,|exact - interpolated|
+B5_a50,AGB260,blind_harmonic_sum,dm0_mag,2.00218,B1; scenario_cell chain
+B5_a50,AGB260,blind_harmonic_sum,floor_mag,0.269032,qpls_radius_scan_floors.csv
+B5_a50,AGB260,blind_harmonic_sum,A_50_exact_mag,3.19275,"outside elliptical range, margin x15.9638"
+B5_a50,AGB260,blind_harmonic_sum,A_50_interp_mag,3.1898,qpls_radius_scan.csv
+B5_a50,AGB260,blind_harmonic_sum,delta_mag,0.0029504,|exact - interpolated|
+B5_a50,AGBiso,global_max,dm0_mag,2.14536,B1; scenario_cell chain
+B5_a50,AGBiso,global_max,floor_mag,0.096628,qpls_radius_scan_floors.csv
+B5_a50,AGBiso,global_max,A_50_exact_mag,4.56122,"outside elliptical range, margin x22.8061"
+B5_a50,AGBiso,global_max,A_50_interp_mag,4.55991,qpls_statistic_v3.csv
+B5_a50,AGBiso,global_max,delta_mag,0.00130296,|exact - interpolated|
+B5_a50,AGBiso,blind_harmonic_sum,dm0_mag,2.14536,B1; scenario_cell chain
+B5_a50,AGBiso,blind_harmonic_sum,floor_mag,0.218584,qpls_radius_scan_floors.csv
+B5_a50,AGBiso,blind_harmonic_sum,A_50_exact_mag,3.61248,"outside elliptical range, margin x18.0624"
+B5_a50,AGBiso,blind_harmonic_sum,A_50_interp_mag,3.61,qpls_statistic_v3.csv
+B5_a50,AGBiso,blind_harmonic_sum,delta_mag,0.00247382,|exact - interpolated|
+B5_a50,BSG,global_max,dm0_mag,6.91839,B1; scenario_cell chain
+B5_a50,BSG,global_max,floor_mag,none,qpls_statistic_v3_floors.csv
+B5_a50,BSG,global_max,A_50_exact_mag,none,
+B5_a50,BSG,global_max,A_50_interp_mag,none,qpls_statistic_v3.csv
+B5_a50,BSG,global_max,delta_mag,n/a,|exact - interpolated|
+B5_a50,BSG,blind_harmonic_sum,dm0_mag,6.91839,B1; scenario_cell chain
+B5_a50,BSG,blind_harmonic_sum,floor_mag,none,qpls_statistic_v3_floors.csv
+B5_a50,BSG,blind_harmonic_sum,A_50_exact_mag,none,
+B5_a50,BSG,blind_harmonic_sum,A_50_interp_mag,none,qpls_statistic_v3.csv
+B5_a50,BSG,blind_harmonic_sum,delta_mag,n/a,|exact - interpolated|
+B2_N_zone,old_metalpoor,global_max,A=0.00,0.000327261,
+B2_N_zone,old_metalpoor,global_max,A=0.02,0.000327261,
+B2_N_zone,old_metalpoor,global_max,A=0.04,0.000327261,
+B2_N_zone,old_metalpoor,global_max,A=0.06,0.000327261,
+B2_N_zone,old_metalpoor,global_max,A=0.08,0.000327261,
+B2_N_zone,old_metalpoor,global_max,A=0.10,0.000327261,
+B2_N_zone,old_metalpoor,global_max,A=0.12,0.000327261,
+B2_N_zone,old_metalpoor,global_max,A=0.14,0.000327261,
+B2_N_zone,old_metalpoor,global_max,A=0.16,0.000327261,
+B2_N_zone,old_metalpoor,global_max,A=0.18,0.000327261,
+B2_N_zone,old_metalpoor,global_max,A=0.20,0.000327261,
+B4_ratio,old_metalpoor,global_max,N_zone(0.2)/N_zone(0),1,robustness ratio
+B4_A_half,old_metalpoor,global_max,A_half_mag,none in range,"log-linear interpolation, A in [0,0.2]"
+B2_N_zone,old_metalrich,global_max,A=0.00,0.00295839,
+B2_N_zone,old_metalrich,global_max,A=0.02,0.00295839,
+B2_N_zone,old_metalrich,global_max,A=0.04,0.00295839,
+B2_N_zone,old_metalrich,global_max,A=0.06,0.00295839,
+B2_N_zone,old_metalrich,global_max,A=0.08,0.00295839,
+B2_N_zone,old_metalrich,global_max,A=0.10,0.00295839,
+B2_N_zone,old_metalrich,global_max,A=0.12,0.00295839,
+B2_N_zone,old_metalrich,global_max,A=0.14,0.00295839,
+B2_N_zone,old_metalrich,global_max,A=0.16,0.00295839,
+B2_N_zone,old_metalrich,global_max,A=0.18,0.00295839,
+B2_N_zone,old_metalrich,global_max,A=0.20,0.00295839,
+B4_ratio,old_metalrich,global_max,N_zone(0.2)/N_zone(0),1,robustness ratio
+B4_A_half,old_metalrich,global_max,A_half_mag,none in range,"log-linear interpolation, A in [0,0.2]"
+B2_N_zone,intermediate,global_max,A=0.00,0.0585864,"per unit stellar mass, x f_burst"
+B2_N_zone,intermediate,global_max,A=0.02,0.0585864,"per unit stellar mass, x f_burst"
+B2_N_zone,intermediate,global_max,A=0.04,0.0585864,"per unit stellar mass, x f_burst"
+B2_N_zone,intermediate,global_max,A=0.06,0.0585864,"per unit stellar mass, x f_burst"
+B2_N_zone,intermediate,global_max,A=0.08,0.0585864,"per unit stellar mass, x f_burst"
+B2_N_zone,intermediate,global_max,A=0.10,0.0585864,"per unit stellar mass, x f_burst"
+B2_N_zone,intermediate,global_max,A=0.12,0.0585864,"per unit stellar mass, x f_burst"
+B2_N_zone,intermediate,global_max,A=0.14,0.0585864,"per unit stellar mass, x f_burst"
+B2_N_zone,intermediate,global_max,A=0.16,0.0585864,"per unit stellar mass, x f_burst"
+B2_N_zone,intermediate,global_max,A=0.18,0.0585864,"per unit stellar mass, x f_burst"
+B2_N_zone,intermediate,global_max,A=0.20,0.0585864,"per unit stellar mass, x f_burst"
+B4_ratio,intermediate,global_max,N_zone(0.2)/N_zone(0),1,robustness ratio
+B4_A_half,intermediate,global_max,A_half_mag,none in range,"log-linear interpolation, A in [0,0.2]"
+B3_identity,old_metalpoor,A_prime=0.1,D_equiv_Gpc=0.104713,0,lhs=0.00032726115 rhs=0.00032726115 PASS
+B3_identity,old_metalrich,A_prime=0.1,D_equiv_Gpc=0.104713,0,lhs=0.002958389 rhs=0.002958389 PASS
+B3_identity,intermediate,A_prime=0.1,D_equiv_Gpc=0.104713,0,lhs=0.058586431 rhs=0.058586431 PASS
+B3_identity,old_metalpoor,A_prime=0.2,D_equiv_Gpc=0.109648,0,lhs=0.00032726115 rhs=0.00032726115 PASS
+B3_identity,old_metalrich,A_prime=0.2,D_equiv_Gpc=0.109648,0,lhs=0.002958389 rhs=0.002958389 PASS
+B3_identity,intermediate,A_prime=0.2,D_equiv_Gpc=0.109648,0,lhs=0.058586431 rhs=0.058586431 PASS
+PR,PR1,,,PASS,all six identity pairs agree at rtol 1e-6
+PR,PR2,,,PASS,"min ratio = 1.0000  [old_metalpoor=1.0000, old_metalrich=1.0000, intermediate=1.0000]"
+PR,PR2-sub,,,FAIL,"undefined-as-predicted: all three ratios are exactly 1.0000, so no host shows any drop and 'largest fractional drop' has no referent; old_metalrich was predicted"
+PR,PR3,,,PASS,max Delta = 0.00295 mag over 6 computable cells
+PR,PR4,,,FAIL,"global-max exists for ['AGB215', 'AGB260', 'AGBiso'] (predicted ['AGB215','AGB260','AGBiso']); harmonic-sum exists for ['AGB215', 'AGB260', 'AGBiso'] (predicted ['AGB260','AGBiso'])"
+PR,PR5,,,PASS,min existing A_50 = 2.894 mag (14.47x the 0.2 bound)
+C0e,BSG,,provenance,"manually specified, NOT isochrone-anchored",qpls/source_scenarios.py:98-100
+B6,BSG,,frozen_scan,True,BSG frozen scan PRESENT in qpls_statistic_v3.csv -- mapped curve included in fig15
+fig15_window,RGBiso,,"a_window=[1.53503,1.68967]",plotted,"scanned range [0.02,3]; 0 scanned point(s) inside the window; interpolated within scanned grid"
+fig15_window,AGB170,,"a_window=[1.58848,1.74534]",plotted,"scanned range [0.02,3]; 0 scanned point(s) inside the window; interpolated within scanned grid"
+fig15_window,AGB215,,"a_window=[1.72905,1.89124]",plotted,"scanned range [0.02,3]; 0 scanned point(s) inside the window; interpolated within scanned grid"
+fig15_window,AGB260,,"a_window=[1.83637,2.00218]",plotted,"scanned range [0.02,3]; 1 scanned point(s) inside the window; interpolated within scanned grid"
+fig15_window,AGBiso,,"a_window=[1.97539,2.14536]",plotted,"scanned range [0.02,3]; 0 scanned point(s) inside the window; interpolated within scanned grid"
+fig15_window,BSG,,"a_window=[6.71877,6.91839]",omitted,"scanned range [0.02,3]; 0 scanned point(s) inside the window; would require extrapolation"
+meta,,,seed,n/a (deterministic post-processing),no RNG is used in this module
+meta,,,semantics,TRIGGER fractions (statistic > threshold),recovery-scored rerun pending; see AUDIT_recovery_semantics_2026-08-04.md

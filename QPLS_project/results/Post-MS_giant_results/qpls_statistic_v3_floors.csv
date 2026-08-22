@@ -1,0 +1,10 @@
+statistic,source,R_Rsun,t_mag_days,detector,floor_A_at_R0.5_mag
+v3-physical,RGBiso,137.5,8.16657,global_max,none
+v3-physical,RGBiso,137.5,8.16657,oracle_single_freq,0.075572
+v3-physical,RGBiso,137.5,8.16657,blind_harmonic_sum,none
+v3-physical,AGBiso,300.744,17.8622,global_max,0.096628
+v3-physical,AGBiso,300.744,17.8622,oracle_single_freq,0.031540
+v3-physical,AGBiso,300.744,17.8622,blind_harmonic_sum,0.218584
+v3-physical,BSG,20.0,1.18786,global_max,none
+v3-physical,BSG,20.0,1.18786,oracle_single_freq,none
+v3-physical,BSG,20.0,1.18786,blind_harmonic_sum,none
